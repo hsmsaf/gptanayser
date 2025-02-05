@@ -4,3 +4,4 @@ seaborn
 pandas
 PyPDF2 
 tabula-py
+openpyxl.

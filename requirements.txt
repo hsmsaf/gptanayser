@@ -1,0 +1,4 @@
+matplotlib
+openai
+seaborn
+pandas

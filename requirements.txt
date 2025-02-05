@@ -2,3 +2,5 @@ matplotlib
 openai
 seaborn
 pandas
+PyPDF2 
+tabula-py

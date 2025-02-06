@@ -105,7 +105,7 @@ def read_file(file):
 
 
 def main():
-    st.set_page_config(page_title="Data Analysis Assistant", page_icon="📊", layout="wide")
+    st.set_page_config(page_title=" SAFARI Data Analysis Assistant", page_icon="📊", layout="wide")
     
     # Centered Layout with Styled Logo
     st.markdown(
@@ -150,7 +150,7 @@ def main():
         st.image(logo_path, width=120)
     
     # Chat Interface
-    st.title("Data Analysis Assistant")
+    st.title(" SAFARI Data Analysis Assistant")
     st.write("Upload your data file and ask questions!")
     
     uploaded_file = st.file_uploader("Upload file (CSV, Excel, PDF)", type=["csv", "xlsx", "pdf"])
